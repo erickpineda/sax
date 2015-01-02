@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competition name="Sis Nacions" edicio="2009">            
+        <!--1a jornada-->                
+  <round>
+      <match num="1" data="Sat 7th Feb 09">
+         <summary>
+            <team name="England" score="36 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Mark Cueto</name>
+                  <name points="10">Harry Ellis</name>
+                  <name points="16">Andy Goode</name>
+                  <name points="5">Riki Flutey</name>
+               </scorecard>
+            </team>
+            <team name="Italy" score="11">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Mirco Bergamasco</name>
+                  <name points="6">Luke McLean</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 7th Feb 09">
+         <summary>
+            <team name="Ireland" score="30 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Gordon D'Arcy</name>
+                  <name points="5">Jamie Heaslip</name>
+                  <name points="5">Brian O'Driscoll (capt)</name>
+                  <name points="15">Ronan O'Gara</name>
+               </scorecard>
+            </team>
+            <team name="France" score="21">
+               <trainer/>
+               <scorecard>
+                  <name points="11">Lionel Beauxis</name>
+                  <name points="5">Imanol Harinordoquy</name>
+                  <name points="5">Maxime Medard</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sun 8th Feb 09">
+         <summary>
+            <team name="Scotland" score="13 ">
+               <trainer/>
+               <scorecard>
+                  <name points="8">Chris Paterson</name>
+                  <name points="5">Max Evans</name>
+               </scorecard>
+            </team>
+            <team name="Wales" score="26">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Alun Wyn Jones</name>
+                  <name points="6">Stephen Jones</name>
+                  <name points="5">Tom Shanklin</name>
+                  <name points="5">Shane Williams</name>
+                  <name points="5">Leigh Halfpenny</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+   <!--2a jornada-->                
+  <round>
+      <match num="1" data="Sat 14th Feb 09">
+         <summary>
+            <team name="France" score="22 ">
+               <trainer/>
+               <scorecard>
+                  <name points="17">Lionel Beauxis</name>
+                  <name points="5">Fulgence Ouedraogo</name>
+               </scorecard>
+            </team>
+            <team name="Scotland" score="13">
+               <trainer/>
+               <scorecard>
+                  <name points="6">Phil Godman</name>
+                  <name points="2">Chris Paterson</name>
+                  <name points="5">Thom Evans</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 14th Feb 09">
+         <summary>
+            <team name="Wales" score="23 ">
+               <trainer/>
+               <scorecard>
+                  <name points="15">Stephen Jones</name>
+                  <name points="8">Leigh Halfpenny</name>
+               </scorecard>
+            </team>
+            <team name="England" score="15">
+               <trainer/>
+               <scorecard>
+                  <name points="2">Toby Flood</name>
+                  <name points="3">Andy Goode</name>
+                  <name points="5">Paul Sackey</name>
+                  <name points="5">Delon Armitage</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sun 15th Feb 09">
+         <summary>
+            <team name="Italy" score="9 ">
+               <trainer/>
+               <scorecard>
+                  <name points="9">Luke McLean</name>
+               </scorecard>
+            </team>
+            <team name="Ireland" score="38">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Tommy Bowe</name>
+                  <name points="10">Luke Fitzgerald</name>
+                  <name points="2">Rob Kearney</name>
+                  <name points="5">Brian O'Driscoll (capt)</name>
+                  <name points="11">Ronan O'Gara</name>
+                  <name points="5">David Wallace</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+   <!--3a jornada-->                
+  <round>
+      <match num="1" data="Fri 27th Feb 09">
+         <summary>
+            <team name="France" score="21 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Thierry Dusautoir</name>
+                  <name points="5">Cedric Heymans</name>
+                  <name points="11">Morgan Parra</name>
+               </scorecard>
+            </team>
+            <team name="Wales" score="16">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Lee Byrne</name>
+                  <name points="3">James Hook</name>
+                  <name points="8">Stephen Jones</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 28th Feb 09">
+         <summary>
+            <team name="Scotland" score="26 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Simon Danielli</name>
+                  <name points="5">Phil Godman</name>
+                  <name points="5">Scott Gray</name>
+                  <name points="11">Chris Paterson</name>
+               </scorecard>
+            </team>
+            <team name="Italy" score="6">
+               <trainer/>
+               <scorecard>
+                  <name points="3">Sergio Parisse (capt)</name>
+                  <name points="3">Luke McLean</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sat 28th Feb 09">
+         <summary>
+            <team name="Ireland" score="14 ">
+               <trainer/>
+               <scorecard>
+                  <name points="8">Brian O'Driscoll (capt)</name>
+                  <name points="6">Ronan O'Gara</name>
+               </scorecard>
+            </team>
+            <team name="England" score="13">
+               <trainer/>
+               <scorecard>
+                  <name points="3">Toby Flood</name>
+                  <name points="2">Andy Goode</name>
+                  <name points="8">Delon Armitage</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+   <!--4a jornada-->                
+  <round>
+      <match num="1" data="Sat 14th Mar 09">
+         <summary>
+            <team name="Italy" score="15 ">
+               <trainer/>
+               <scorecard>
+                  <name points="15">Andrea Marcato</name>
+               </scorecard>
+            </team>
+            <team name="Wales" score="20">
+               <trainer/>
+               <scorecard>
+                  <name points="10">James Hook</name>
+                  <name points="5">Tom Shanklin</name>
+                  <name points="5">Shane Williams</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 14th Mar 09">
+         <summary>
+            <team name="Scotland" score="15 ">
+               <trainer/>
+               <scorecard>
+                  <name points="15">Chris Paterson</name>
+               </scorecard>
+            </team>
+            <team name="Ireland" score="22">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Jamie Heaslip</name>
+                  <name points="17">Ronan O'Gara</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sun 15th Mar 09">
+         <summary>
+            <team name="England" score="34 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Mark Cueto</name>
+                  <name points="9">Toby Flood</name>
+                  <name points="5">Joe Worsley</name>
+                  <name points="5">Delon Armitage</name>
+                  <name points="10">Riki Flutey</name>
+               </scorecard>
+            </team>
+            <team name="France" score="10">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Dimitri Szarzewski</name>
+                  <name points="5">Julien Malzieu</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+   <!--5a jornada-->                
+  <round>
+      <match num="1" data="Sat 21st Mar 09">
+         <summary>
+            <team name="Italy" score="8 ">
+               <trainer/>
+               <scorecard>
+                  <name points="3">Andrea Marcato</name>
+                  <name points="5">Sergio Parisse (capt)</name>
+               </scorecard>
+            </team>
+            <team name="France" score="50">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Sebastien Chabal</name>
+                  <name points="5">Cedric Heymans</name>
+                  <name points="5">Julien Malzieu</name>
+                  <name points="15">Morgan Parra</name>
+                  <name points="5">Francois Trinh-Duc</name>
+                  <name points="10">Maxime Medard</name>
+                  <name points="5">Thomas Domingo</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 21st Mar 09">
+         <summary>
+            <team name="England" score="26 ">
+               <trainer/>
+               <scorecard>
+                  <name points="8">Toby Flood</name>
+                  <name points="5">Mathew Tait</name>
+                  <name points="3">Danny Care</name>
+                  <name points="5">Riki Flutey</name>
+                  <name points="5">Ugo Monye</name>
+               </scorecard>
+            </team>
+            <team name="Scotland" score="12">
+               <trainer/>
+               <scorecard>
+                  <name points="3">Phil Godman</name>
+                  <name points="9">Chris Paterson</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sat 21st Mar 09">
+         <summary>
+            <team name="Wales" score="15 ">
+               <trainer/>
+               <scorecard>
+                  <name points="15">Stephen Jones</name>
+               </scorecard>
+            </team>
+            <team name="Ireland" score="17">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Tommy Bowe</name>
+                  <name points="5">Brian O'Driscoll (capt)</name>
+                  <name points="7">Ronan O'Gara</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+</competition>

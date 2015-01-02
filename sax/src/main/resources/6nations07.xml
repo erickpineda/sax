@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competition name="Sis Nacions" edicio="2007">            
+        <!--1a jornada-->                
+  <round>
+      <match num="1" data="Sat 3rd Feb 07">
+         <summary>
+            <team name="Italy" score="3 ">
+               <trainer/>
+               <scorecard>
+                  <name points="3">Ramiro Pez</name>
+               </scorecard>
+            </team>
+            <team name="France" score="39">
+               <trainer/>
+               <scorecard>
+                  <name points="3">Lionel Beauxis</name>
+                  <name points="10">Sebastien Chabal</name>
+                  <name points="5">Christophe Dominici</name>
+                  <name points="5">Cedric Heymans</name>
+                  <name points="5">Yannick Jauzion</name>
+                  <name points="11">David Skrela</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 3rd Feb 07">
+         <summary>
+            <team name="England" score="42 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Magnus Lund</name>
+                  <name points="10">Jason Robinson</name>
+                  <name points="27">Jonny Wilkinson</name>
+               </scorecard>
+            </team>
+            <team name="Scotland" score="20">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Rob Dewey</name>
+                  <name points="10">Chris Paterson (capt)</name>
+                  <name points="5">Simon Taylor</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sun 4th Feb 07">
+         <summary>
+            <team name="Wales" score="9 ">
+               <trainer/>
+               <scorecard>
+                  <name points="9">Stephen Jones (capt)</name>
+               </scorecard>
+            </team>
+            <team name="Ireland" score="19">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Rory Best</name>
+                  <name points="5">Brian O'Driscoll (capt)</name>
+                  <name points="9">Ronan O'Gara</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+   <!--2a jornada-->                
+  <round>
+      <match num="1" data="Sat 10th Feb 07">
+         <summary>
+            <team name="England" score="20 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Jason Robinson</name>
+                  <name points="15">Jonny Wilkinson</name>
+               </scorecard>
+            </team>
+            <team name="Italy" score="7">
+               <trainer/>
+               <scorecard>
+                  <name points="7">Andrea Scanavacca</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 10th Feb 07">
+         <summary>
+            <team name="Scotland" score="21 ">
+               <trainer/>
+               <scorecard>
+                  <name points="21">Chris Paterson (capt)</name>
+               </scorecard>
+            </team>
+            <team name="Wales" score="9">
+               <trainer/>
+               <scorecard>
+                  <name points="9">Stephen Jones (capt)</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sun 11th Feb 07">
+         <summary>
+            <team name="Ireland" score="17 ">
+               <trainer/>
+               <scorecard>
+                  <name points="17">Ronan O'Gara</name>
+               </scorecard>
+            </team>
+            <team name="France" score="20">
+               <trainer/>
+               <scorecard>
+                  <name points="2">Lionel Beauxis</name>
+                  <name points="5">Vincent Clerc</name>
+                  <name points="5">Raphael Ibanez (capt)</name>
+                  <name points="8">David Skrela</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+   <!--3a jornada-->                
+  <round>
+      <match num="1" data="Sat 24th Feb 07">
+         <summary>
+            <team name="Scotland" score="17 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Rob Dewey</name>
+                  <name points="12">Chris Paterson (capt)</name>
+               </scorecard>
+            </team>
+            <team name="Italy" score="37">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Mauro Bergamasco</name>
+                  <name points="5">Kaine Robertson</name>
+                  <name points="22">Andrea Scanavacca</name>
+                  <name points="5">Alessandro Troncon</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 24th Feb 07">
+         <summary>
+            <team name="Ireland" score="43 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Isaac Boss</name>
+                  <name points="5">Girvan Dempsey</name>
+                  <name points="5">Shane Horgan</name>
+                  <name points="21">Ronan O'Gara</name>
+                  <name points="5">David Wallace</name>
+                  <name points="2">Paddy Wallace</name>
+               </scorecard>
+            </team>
+            <team name="England" score="13">
+               <trainer/>
+               <scorecard>
+                  <name points="5">David Strettle</name>
+                  <name points="8">Jonny Wilkinson</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sat 24th Feb 07">
+         <summary>
+            <team name="France" score="32 ">
+               <trainer/>
+               <scorecard>
+                  <name points="3">Lionel Beauxis</name>
+                  <name points="5">Christophe Dominici</name>
+                  <name points="5">Lionel Nallet</name>
+                  <name points="19">David Skrela</name>
+               </scorecard>
+            </team>
+            <team name="Wales" score="21">
+               <trainer/>
+               <scorecard>
+                  <name points="6">Stephen Jones (capt)</name>
+                  <name points="5">Alix Popham</name>
+                  <name points="5">Jamie Robinson</name>
+                  <name points="5">Tom Shanklin</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+   <!--4a jornada-->                
+  <round>
+      <match num="1" data="Sat 10th Mar 07">
+         <summary>
+            <team name="Scotland" score="18 ">
+               <trainer/>
+               <scorecard>
+                  <name points="18">Chris Paterson (capt)</name>
+               </scorecard>
+            </team>
+            <team name="Ireland" score="19">
+               <trainer/>
+               <scorecard>
+                  <name points="19">Ronan O'Gara</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 10th Mar 07">
+         <summary>
+            <team name="Italy" score="23 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Mauro Bergamasco</name>
+                  <name points="13">Ramiro Pez</name>
+                  <name points="5">Kaine Robertson</name>
+               </scorecard>
+            </team>
+            <team name="Wales" score="20">
+               <trainer/>
+               <scorecard>
+                  <name points="8">James Hook</name>
+                  <name points="2">Stephen Jones (capt)</name>
+                  <name points="5">Matthew Rees</name>
+                  <name points="5">Shane Williams</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sun 11th Mar 07">
+         <summary>
+            <team name="England" score="26 ">
+               <trainer/>
+               <scorecard>
+                  <name points="16">Toby Flood</name>
+                  <name points="5">Shane Geraghty</name>
+                  <name points="5">Mike Tindall</name>
+               </scorecard>
+            </team>
+            <team name="France" score="18">
+               <trainer/>
+               <scorecard>
+                  <name points="9">David Skrela</name>
+                  <name points="9">Dimitri Yachvili</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+   <!--5a jornada-->                
+  <round>
+      <match num="1" data="Sat 17th Mar 07">
+         <summary>
+            <team name="Italy" score="24 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Marco Bortolami (capt)</name>
+                  <name points="5">Roland de Marigny</name>
+                  <name points="12">Ramiro Pez</name>
+                  <name points="2">Andrea Scanavacca</name>
+               </scorecard>
+            </team>
+            <team name="Ireland" score="51">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Gordon D'Arcy</name>
+                  <name points="10">Girvan Dempsey</name>
+                  <name points="5">Simon Easterby</name>
+                  <name points="10">Denis Hickie</name>
+                  <name points="5">Shane Horgan</name>
+                  <name points="16">Ronan O'Gara</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 17th Mar 07">
+         <summary>
+            <team name="France" score="46 ">
+               <trainer/>
+               <scorecard>
+                  <name points="16">Lionel Beauxis</name>
+                  <name points="5">Imanol Harinordoquy</name>
+                  <name points="5">Cedric Heymans</name>
+                  <name points="5">Yannick Jauzion</name>
+                  <name points="5">David Marty</name>
+                  <name points="5">Olivier Milloud</name>
+                  <name points="5">Elvis Vermeulen</name>
+               </scorecard>
+            </team>
+            <team name="Scotland" score="19">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Sean Lamont</name>
+                  <name points="5">Euan Murray</name>
+                  <name points="4">Chris Paterson (capt)</name>
+                  <name points="5">Nikki Walker</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sat 17th Mar 07">
+         <summary>
+            <team name="Wales" score="27 ">
+               <trainer/>
+               <scorecard>
+                  <name points="22">James Hook</name>
+                  <name points="5">Chris Horsman</name>
+               </scorecard>
+            </team>
+            <team name="England" score="18">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Harry Ellis</name>
+                  <name points="8">Toby Flood</name>
+                  <name points="5">Jason Robinson</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+</competition>

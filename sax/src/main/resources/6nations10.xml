@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competition name="Sis Nacions" edicio="2010">            
+        <!--1a jornada-->                
+  <round>
+      <match num="1" data="Sat 6th Feb 10">
+         <summary>
+            <team name="Ireland" score="29 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Jamie Heaslip</name>
+                  <name points="16">Ronan O'Gara</name>
+                  <name points="5">Tomas O'Leary</name>
+                  <name points="3">Paddy Wallace</name>
+               </scorecard>
+            </team>
+            <team name="Italy" score="11">
+               <trainer/>
+               <scorecard>
+                  <name points="3">Mirco Bergamasco</name>
+                  <name points="5">Kaine Robertson</name>
+                  <name points="3">Craig Gower</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 6th Feb 10">
+         <summary>
+            <team name="England" score="30 ">
+               <trainer/>
+               <scorecard>
+                  <name points="10">James Haskell</name>
+                  <name points="15">Jonny Wilkinson</name>
+                  <name points="5">Danny Care</name>
+               </scorecard>
+            </team>
+            <team name="Wales" score="17">
+               <trainer/>
+               <scorecard>
+                  <name points="5">James Hook</name>
+                  <name points="5">Adam Rhys Jones</name>
+                  <name points="7">Stephen Jones</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sun 7th Feb 10">
+         <summary>
+            <team name="Scotland" score="9 ">
+               <trainer/>
+               <scorecard>
+                  <name points="9">Chris Paterson</name>
+               </scorecard>
+            </team>
+            <team name="France" score="18">
+               <trainer/>
+               <scorecard>
+                  <name points="8">Morgan Parra</name>
+                  <name points="10">Mathieu Bastareaud</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+   <!--2a jornada-->                
+  <round>
+      <match num="1" data="Sat 13th Feb 10">
+         <summary>
+            <team name="Wales" score="31 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Lee Byrne</name>
+                  <name points="16">Stephen Jones</name>
+                  <name points="5">Shane Williams</name>
+                  <name points="5">Leigh Halfpenny</name>
+               </scorecard>
+            </team>
+            <team name="Scotland" score="24">
+               <trainer/>
+               <scorecard>
+                  <name points="12">Dan Parks</name>
+                  <name points="2">Chris Paterson</name>
+                  <name points="5">John Barclay</name>
+                  <name points="5">Max Evans</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 13th Feb 10">
+         <summary>
+            <team name="France" score="33 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Yannick Jauzion</name>
+                  <name points="3">Frederic Michalak</name>
+                  <name points="5">Clement Poitrenaud</name>
+                  <name points="5">William Servat</name>
+                  <name points="15">Morgan Parra</name>
+               </scorecard>
+            </team>
+            <team name="Ireland" score="10">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Ronan O'Gara</name>
+                  <name points="5">David Wallace</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sun 14th Feb 10">
+         <summary>
+            <team name="Italy" score="12 ">
+               <trainer/>
+               <scorecard>
+                  <name points="12">Mirco Bergamasco</name>
+               </scorecard>
+            </team>
+            <team name="England" score="17">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Mathew Tait</name>
+                  <name points="12">Jonny Wilkinson</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+   <!--3a jornada-->                
+  <round>
+      <match num="1" data="Fri 26th Feb 10">
+         <summary>
+            <team name="Wales" score="20 ">
+               <trainer/>
+               <scorecard>
+                  <name points="10">Stephen Jones</name>
+                  <name points="5">Shane Williams</name>
+                  <name points="5">Leigh Halfpenny</name>
+               </scorecard>
+            </team>
+            <team name="France" score="26">
+               <trainer/>
+               <scorecard>
+                  <name points="3">Frederic Michalak</name>
+                  <name points="13">Morgan Parra</name>
+                  <name points="5">Francois Trinh-Duc</name>
+                  <name points="5">Alexis Palisson</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 27th Feb 10">
+         <summary>
+            <team name="Italy" score="16 ">
+               <trainer/>
+               <scorecard>
+                  <name points="11">Mirco Bergamasco</name>
+                  <name points="5">Pablo Canavosio</name>
+               </scorecard>
+            </team>
+            <team name="Scotland" score="12">
+               <trainer/>
+               <scorecard>
+                  <name points="12">Dan Parks</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sat 27th Feb 10">
+         <summary>
+            <team name="England" score="16 ">
+               <trainer/>
+               <scorecard>
+                  <name points="11">Jonny Wilkinson</name>
+                  <name points="5">Dan Cole</name>
+               </scorecard>
+            </team>
+            <team name="Ireland" score="20">
+               <trainer/>
+               <scorecard>
+                  <name points="10">Tommy Bowe</name>
+                  <name points="2">Ronan O'Gara</name>
+                  <name points="3">Jonathan Sexton</name>
+                  <name points="5">Keith Earls</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+   <!--4a jornada-->                
+  <round>
+      <match num="1" data="Sat 13th Mar 10">
+         <summary>
+            <team name="Ireland" score="27 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Tomas O'Leary</name>
+                  <name points="12">Jonathan Sexton</name>
+                  <name points="10">Keith Earls</name>
+               </scorecard>
+            </team>
+            <team name="Wales" score="12">
+               <trainer/>
+               <scorecard>
+                  <name points="12">Stephen Jones</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 13th Mar 10">
+         <summary>
+            <team name="Scotland" score="15 ">
+               <trainer/>
+               <scorecard>
+                  <name points="15">Dan Parks</name>
+               </scorecard>
+            </team>
+            <team name="England" score="15">
+               <trainer/>
+               <scorecard>
+                  <name points="6">Toby Flood</name>
+                  <name points="9">Jonny Wilkinson</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sun 14th Mar 10">
+         <summary>
+            <team name="France" score="46 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Imanol Harinordoquy</name>
+                  <name points="5">Yannick Jauzion</name>
+                  <name points="10">David Marty</name>
+                  <name points="16">Morgan Parra</name>
+                  <name points="5">Alexandre Lapandry</name>
+                  <name points="5">Marc Andreu</name>
+               </scorecard>
+            </team>
+            <team name="Italy" score="20">
+               <trainer/>
+               <scorecard>
+                  <name points="10">Mirco Bergamasco</name>
+                  <name points="5">Pablo Canavosio</name>
+                  <name points="5">Carlo Antonio Del Fava</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+   <!--5a jornada-->                
+  <round>
+      <match num="1" data="Sat 20th Mar 10">
+         <summary>
+            <team name="Wales" score="33 ">
+               <trainer/>
+               <scorecard>
+                  <name points="10">James Hook</name>
+                  <name points="18">Stephen Jones</name>
+                  <name points="5">Shane Williams</name>
+               </scorecard>
+            </team>
+            <team name="Italy" score="10">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Mirco Bergamasco</name>
+                  <name points="5">Luke McLean</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 20th Mar 10">
+         <summary>
+            <team name="Ireland" score="20 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Tommy Bowe</name>
+                  <name points="5">Brian O'Driscoll (capt)</name>
+                  <name points="5">Ronan O'Gara</name>
+                  <name points="5">Jonathan Sexton</name>
+               </scorecard>
+            </team>
+            <team name="Scotland" score="23">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Johnnie Beattie</name>
+                  <name points="18">Dan Parks</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sat 20th Mar 10">
+         <summary>
+            <team name="France" score="12 ">
+               <trainer/>
+               <scorecard>
+                  <name points="9">Morgan Parra</name>
+                  <name points="3">Francois Trinh-Duc</name>
+               </scorecard>
+            </team>
+            <team name="England" score="10">
+               <trainer/>
+               <scorecard>
+                  <name points="2">Toby Flood</name>
+                  <name points="3">Jonny Wilkinson</name>
+                  <name points="5">Ben Foden</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+</competition>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<competition name="Sis Nacions" edicio="2008">            
+        <!--1a jornada-->                
+  <round>
+      <match num="1" data="Sat 2nd Feb 08">
+         <summary>
+            <team name="Ireland" score="16 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Girvan Dempsey</name>
+                  <name points="11">Ronan O'Gara</name>
+               </scorecard>
+            </team>
+            <team name="Italy" score="11">
+               <trainer/>
+               <scorecard>
+                  <name points="6">David Bortolussi</name>
+                  <name points="5">Martin Castrogiovanni</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 2nd Feb 08">
+         <summary>
+            <team name="England" score="19 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Toby Flood</name>
+                  <name points="14">Jonny Wilkinson</name>
+               </scorecard>
+            </team>
+            <team name="Wales" score="26">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Lee Byrne</name>
+                  <name points="16">James Hook</name>
+                  <name points="5">Mike Phillips</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sun 3rd Feb 08">
+         <summary>
+            <team name="Scotland" score="6 ">
+               <trainer/>
+               <scorecard>
+                  <name points="6">Dan Parks</name>
+               </scorecard>
+            </team>
+            <team name="France" score="27">
+               <trainer/>
+               <scorecard>
+                  <name points="10">Vincent Clerc</name>
+                  <name points="4">Jean Baptiste Elissalde</name>
+                  <name points="2">David Skrela</name>
+                  <name points="6">Damien Traille</name>
+                  <name points="5">Julien Malzieu</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+   <!--2a jornada-->                
+  <round>
+      <match num="1" data="Sat 9th Feb 08">
+         <summary>
+            <team name="Wales" score="30 ">
+               <trainer/>
+               <scorecard>
+                  <name points="12">James Hook</name>
+                  <name points="8">Stephen Jones</name>
+                  <name points="10">Shane Williams</name>
+               </scorecard>
+            </team>
+            <team name="Scotland" score="15">
+               <trainer/>
+               <scorecard>
+                  <name points="15">Chris Paterson</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 9th Feb 08">
+         <summary>
+            <team name="France" score="26 ">
+               <trainer/>
+               <scorecard>
+                  <name points="15">Vincent Clerc</name>
+                  <name points="6">Jean Baptiste Elissalde</name>
+                  <name points="5">Cedric Heymans</name>
+               </scorecard>
+            </team>
+            <team name="Ireland" score="21">
+               <trainer/>
+               <scorecard>
+                  <name points="11">Ronan O'Gara</name>
+                  <name points="5">David Wallace</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sun 10th Feb 08">
+         <summary>
+            <team name="Italy" score="19 ">
+               <trainer/>
+               <scorecard>
+                  <name points="14">David Bortolussi</name>
+                  <name points="5">Simon Picone</name>
+               </scorecard>
+            </team>
+            <team name="England" score="23">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Toby Flood</name>
+                  <name points="5">Paul Sackey</name>
+                  <name points="13">Jonny Wilkinson</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+   <!--3a jornada-->                
+  <round>
+      <match num="1" data="Sat 23rd Feb 08">
+         <summary>
+            <team name="Wales" score="47 ">
+               <trainer/>
+               <scorecard>
+                  <name points="10">Lee Byrne</name>
+                  <name points="4">James Hook</name>
+                  <name points="18">Stephen Jones</name>
+                  <name points="5">Tom Shanklin</name>
+                  <name points="10">Shane Williams</name>
+               </scorecard>
+            </team>
+            <team name="Italy" score="8">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Martin Castrogiovanni</name>
+                  <name points="3">Andrea Marcato</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 23rd Feb 08">
+         <summary>
+            <team name="Ireland" score="34 ">
+               <trainer/>
+               <scorecard>
+                  <name points="10">Tommy Bowe</name>
+                  <name points="5">Marcus Horan</name>
+                  <name points="5">Rob Kearney</name>
+                  <name points="9">Ronan O'Gara</name>
+                  <name points="5">David Wallace</name>
+               </scorecard>
+            </team>
+            <team name="Scotland" score="13">
+               <trainer/>
+               <scorecard>
+                  <name points="8">Chris Paterson</name>
+                  <name points="5">Simon Webster</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sat 23rd Feb 08">
+         <summary>
+            <team name="France" score="13 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Lionel Nallet (capt)</name>
+                  <name points="2">Damien Traille</name>
+                  <name points="3">Dimitri Yachvili</name>
+                  <name points="3">Morgan Parra</name>
+               </scorecard>
+            </team>
+            <team name="England" score="24">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Paul Sackey</name>
+                  <name points="14">Jonny Wilkinson</name>
+                  <name points="5">Richard Wigglesworth</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+   <!--4a jornada-->                
+  <round>
+      <match num="1" data="Sat 8th Mar 08">
+         <summary>
+            <team name="Ireland" score="12 ">
+               <trainer/>
+               <scorecard>
+                  <name points="12">Ronan O'Gara</name>
+               </scorecard>
+            </team>
+            <team name="Wales" score="16">
+               <trainer/>
+               <scorecard>
+                  <name points="3">James Hook</name>
+                  <name points="8">Stephen Jones</name>
+                  <name points="5">Shane Williams</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 8th Mar 08">
+         <summary>
+            <team name="Scotland" score="15 ">
+               <trainer/>
+               <scorecard>
+                  <name points="3">Dan Parks</name>
+                  <name points="12">Chris Paterson</name>
+               </scorecard>
+            </team>
+            <team name="England" score="9">
+               <trainer/>
+               <scorecard>
+                  <name points="9">Jonny Wilkinson</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sun 9th Mar 08">
+         <summary>
+            <team name="France" score="25 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Yannick Jauzion</name>
+                  <name points="5">Aurelien Rougerie</name>
+                  <name points="10">Dimitri Yachvili</name>
+                  <name points="5">Anthony Floch</name>
+               </scorecard>
+            </team>
+            <team name="Italy" score="13">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Martin Castrogiovanni</name>
+                  <name points="8">Andrea Marcato</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+   <!--5a jornada-->                
+  <round>
+      <match num="1" data="Sat 15th Mar 08">
+         <summary>
+            <team name="Italy" score="23 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Gonzalo Javier Canale</name>
+                  <name points="13">Andrea Marcato</name>
+               </scorecard>
+            </team>
+            <team name="Scotland" score="20">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Mike Blair (capt)</name>
+                  <name points="5">Allister Hogg</name>
+                  <name points="3">Dan Parks</name>
+                  <name points="7">Chris Paterson</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="2" data="Sat 15th Mar 08">
+         <summary>
+            <team name="England" score="33 ">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Jamie Noon</name>
+                  <name points="5">Paul Sackey</name>
+                  <name points="5">Mathew Tait</name>
+                  <name points="18">Danny Cipriani</name>
+               </scorecard>
+            </team>
+            <team name="Ireland" score="10">
+               <trainer/>
+               <scorecard>
+                  <name points="5">Rob Kearney</name>
+                  <name points="5">Ronan O'Gara (capt)</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+      <match num="3" data="Sat 15th Mar 08">
+         <summary>
+            <team name="Wales" score="29 ">
+               <trainer/>
+               <scorecard>
+                  <name points="9">James Hook</name>
+                  <name points="10">Stephen Jones</name>
+                  <name points="5">Martyn Williams</name>
+                  <name points="5">Shane Williams</name>
+               </scorecard>
+            </team>
+            <team name="France" score="12">
+               <trainer/>
+               <scorecard>
+                  <name points="9">Jean Baptiste Elissalde</name>
+                  <name points="3">Dimitri Yachvili</name>
+               </scorecard>
+            </team>
+         </summary>
+      </match>
+   </round>
+</competition>
