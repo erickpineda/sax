@@ -34,5 +34,7 @@ public class App {
 		for (String fichero : nombresFicheros)
 			parser.parse(new File(App.class.getResource(fichero).getFile()),
 					new Procesar());
+
+		Procesar.eliminarFichero(Procesar.ficheroDatos, true);
 	}
 }
